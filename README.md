@@ -1,12 +1,12 @@
-<h1 align="center">💫 About Me:</h1>
+<h1 align="left">💫 About Me:</h1>
 
-<p align="center">I am pursuing Computer Engineering at Thapar University. I am a Formula Student, potential coder, and have a deep interest in Hacking, IoT, and Embedded Systems.</p>
+<p align="left">I am pursuing Computer Engineering at Thapar University. I am a Formula Student, potential coder, and have a deep interest in Hacking, IoT, and Embedded Systems.</p>
 
-<h1 align="center">💻 Tech Stack:</h1>
+<h1 align="left">💻 Tech Stack:</h1>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -23,31 +23,31 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+<h1 align="left">📊 GitHub Stats:</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=talented-adverb&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talented-adverb&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talented-adverb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h3 align="left">🔝 Top Contributed Repo</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=talented-adverb&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
 
 <hr>
 
-<h2 align="center">🌐 Socials:</h2>
+<h2 align="left">🌐 Socials:</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/itz_pratham_040">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
@@ -62,8 +62,8 @@
   </a>
 </p>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3 align="left">✍️ Random Dev Quote</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote">
 </p>
