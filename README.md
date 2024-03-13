@@ -68,5 +68,5 @@
 <h3 align="left">✍️ Random Dev Quote</h3>
 
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote">
+  <img src="https://gogetsecure.com/wp-content/uploads/2022/05/cyber-security-quotes_bruce-schneier.jpg" alt="Random Dev Quote">
 </p>
