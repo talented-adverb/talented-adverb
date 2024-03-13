@@ -1,4 +1,5 @@
-<h1 align="left">💫 About Me:</h1>
+<h1 align="left">💫 Hello there! I am Pratham Sharma:</h1>
+<h3 align="left">I am into IoT/Embedded Systems/Formula Student/Cybersecurity & Engineering things</h3>
 
 <p align="left">I am pursuing Computer Engineering at Thapar University. I am a Formula Student, potential coder, and have a deep interest in Hacking, IoT, and Embedded Systems.</p>
 
