@@ -1,8 +1,6 @@
 ![image](https://github.com/talented-adverb/talented-adverb/assets/118990719/c5404a5b-a9fa-4961-a81a-c2255fb9c643)<h1 align="left">💫 Hello there! I am Pratham Sharma:</h1>
 <h3 align="left">I am into IoT/Embedded Systems/Formula Student/Cybersecurity & Engineering things</h3>
 
-<p align="left">I am pursuing Computer Engineering at Thapar University. I am a Formula Student, potential coder, and have a deep interest in Hacking, IoT, and Embedded Systems.</p>
-
 <h1 align="left">💻 Tech Stack:</h1>
 
 <h3 align="left">Languages and Tools:</h3>
