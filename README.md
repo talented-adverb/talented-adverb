@@ -1,4 +1,4 @@
-![image](https://github.com/talented-adverb/talented-adverb/assets/118990719/c5404a5b-a9fa-4961-a81a-c2255fb9c643)<h1 align="left">💫 Hello there! I am Pratham Sharma:</h1>
+<h1>💫 Hello there! I am Pratham Sharma:</h1>
 <h3 align="left">I am into IoT/Embedded Systems/Formula Student/Cybersecurity & Engineering things</h3>
 
 <h1 align="left">💻 Tech Stack:</h1>
@@ -66,5 +66,5 @@
 <h3 align="left">✍️ Random Dev Quote</h3>
 
 <p align="left">
-  <img src="https://gogetsecure.com/wp-content/uploads/2022/05/cyber-security-quotes_Martina-Navratilova.jpg" alt="Random Dev Quote">
+  <img src="https://quotefancy.com/media/wallpaper/1600x900/8120700-eat-sleep-code-repeat-Wallpaper.jpg" alt="Random Dev Quote">
 </p>
