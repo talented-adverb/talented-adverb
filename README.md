@@ -55,12 +55,6 @@
   <a href="https://www.linkedin.com/in/pratham-sharma-184160255/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://quora.com/profile/PRATHAM-SHARMA">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora">
-  </a>
-  <a href="https://reddit.com/user/talented_adverb01">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit">
-  </a>
 </p>
 
 <h3 align="left">✍️ Random Dev Quote</h3>
