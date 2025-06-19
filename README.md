@@ -35,7 +35,7 @@
 ### ⚙️ Tech Arsenal
 
 #### 🧠 Programming & Modeling  
-![C](https://img.shields.io/badge/-Embedded%20C-333333?style=flat&logo=c) ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks) ![Simulink](https://img.shields.io/badge/-Simulink-333333?style=flat&logo=mathworks)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-333333?style=flat&logo=c) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks) ![Simulink](https://img.shields.io/badge/-Simulink-333333?style=flat&logo=mathworks)
 
 #### 📡 Communication Protocols  
 ![CAN](https://img.shields.io/badge/-CAN%20Bus-333333?style=flat&logo=ican) ![I2C](https://img.shields.io/badge/-I2C-333333?style=flat&logo=climate_tech) ![UART](https://img.shields.io/badge/-UART-333333?style=flat&logo=serial) ![SPI](https://img.shields.io/badge/-SPI-333333?style=flat&logo=usb) ![Zigbee](https://img.shields.io/badge/-Zigbee-333333?style=flat&logo=zigbee)
@@ -74,7 +74,7 @@
     <td><img src="images/pineapple.png" width="60"/></td>
     <td><img src="images/hackrf.png" width="60"/></td>
     <td><img src="images/flipper.png" width="60"/></td>
-    <td><img src="images/ble.png" width="60"/></td>
+    <td><img src="images/python.png" width="60"/></td>
   </tr>
 </table>
 
