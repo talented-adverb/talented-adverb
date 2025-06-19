@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">🏎 Formula_Student– Building Fast, Secure Automotive Tech 🏎</h1>
+<h1 align="center">🏎 Formula_Student– Building Fast & Secure Automotive Tech 🏎</h1>
 
 <table align="center">
   <tr>
@@ -24,7 +24,7 @@
 > I don’t just write code. I **engineer control**, **penetrate systems**, and **command machines**.  
 > Where others see wires, I see warzones. Where they see ECUs, I see entry points.  
 
-I'm deeply passionate about **Automotive Electronics** and **Cybersecurity** — building systems that are not only **fast**, but also **secure and resilient**.
+ **Automotive Electronics** + **Cybersecurity** => building systems that are not only **fast**, but also **secure and resilient**.
 
 ---
 
