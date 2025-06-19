@@ -1,64 +1,66 @@
-<h1>💫 Hello there! I am Pratham Sharma:</h1>
-<h3 align="left">I am into IoT/Embedded Systems/Formula Student/Cybersecurity & Engineering things</h3>
 
-<h1 align="left">💻 Tech Stack:</h1>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://platformio.org/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/geSst7Bfx2q5reBcBBfLjm68kN2jt0LVNYHO2CqrbnU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NkL1BsYXRmb3Jt/SU9fbG9nby5zdmc.svg" alt="platformIO" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://processing.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/270px-Processing_2021_logo.svg.png" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
+<h1 align="center">🏎 Formula_Student– Building Fast, Secure Automotive Tech 🏎</h1>
 
-<h1 align="left">📊 GitHub Stats:</h1>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/f1.jpg" alt="F1 Car" width="500"/>
+    </td>
+    <td align="center" style="vertical-align: middle;">
+      <img src="https://img.shields.io/badge/-talented%20adverb%20will%20rise-FF0000?style=for-the-badge&logo=rocket&logoColor=white" alt="Badge"/>
+    </td>
+    <td align="center">
+      <img src="images/code.jpg" alt="Code Console" width="500"/>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=talented-adverb&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talented-adverb&theme=radical&hide_border=false" alt="GitHub Streak Stats">
-</p>
+## 👨‍💻 About Me  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talented-adverb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
+> I don’t just write code. I **engineer control**, **penetrate systems**, and **command machines**.  
+> Where others see wires, I see warzones. Where they see ECUs, I see entry points.  
 
-<h3 align="left">🔝 Top Contributed Repo</h3>
+I'm deeply passionate about **Automotive Electronics** and **Cybersecurity** — building systems that are not only **fast**, but also **secure and resilient**.
 
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=talented-adverb&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
+---
 
-<hr>
+## ⚙️ Tech Arsenal
 
-<h2 align="left">🌐 Socials:</h2>
+### 🧠 Programming & Modeling
+![C](https://img.shields.io/badge/-Embedded%20C-333333?style=flat&logo=c)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
+![Simulink](https://img.shields.io/badge/-Simulink-333333?style=flat&logo=mathworks)
 
-<p align="left">
-  <a href="https://instagram.com/itz_pratham_040">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/pratham-sharma-184160255/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+### 📡 Communication Protocols
+![CAN](https://img.shields.io/badge/-CAN%20Bus-333333?style=flat&logo=ican)
+![I2C](https://img.shields.io/badge/-I2C-333333?style=flat&logo=climate_tech)
+![UART](https://img.shields.io/badge/-UART-333333?style=flat&logo=serial)
+![SPI](https://img.shields.io/badge/-SPI-333333?style=flat&logo=usb)
+![Zigbee](https://img.shields.io/badge/-Zigbee-333333?style=flat&logo=zigbee)
 
-<h3 align="left">✍ Random Dev Quote</h3>
+### 🧰 Hardware & Design Tools
+![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+![Teensy](https://img.shields.io/badge/-Teensy-333333?style=flat&logo=teensy)
+![nRF52840](https://img.shields.io/badge/-nRF52840-333333?style=flat&logo=nordic-semiconductor)
+![KiCad](https://img.shields.io/badge/-KiCad-333333?style=flat&logo=kicad)
 
-<p align="left">
-  <img src="https://quotefancy.com/media/wallpaper/1600x900/8120700-eat-sleep-code-repeat-Wallpaper.jpg" alt="Random Dev Quote">
-</p>
+### 🛡 Cybersecurity Toolkit
+![HackRF One](https://img.shields.io/badge/-HackRF%20One-333333?style=flat&logo=hackrf)
+![WiFi Pineapple](https://img.shields.io/badge/-WiFi%20Pineapple-333333?style=flat&logo=wifi-pineapple)
+![Flipper Zero](https://img.shields.io/badge/-Flipper%20Zero-333333?style=flat&logo=flipperzero)
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pratham-sharma-184160255/)
+[![Gmail](https://img.shields.io/badge/Gmail-ps.pratham04%40gmail.com-red?logo=gmail&logoColor=white)](mailto:ps.pratham04@gmail.com)
+
+---
+
+> Tuned for speed. Wired for the unexpected 🏁
