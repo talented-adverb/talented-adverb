@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<h3 align="left">✍️ Random Dev Quote</h3>
+<h3 align="left">✍ Random Dev Quote</h3>
 
 <p align="left">
   <img src="https://quotefancy.com/media/wallpaper/1600x900/8120700-eat-sleep-code-repeat-Wallpaper.jpg" alt="Random Dev Quote">
